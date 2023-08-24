@@ -24,6 +24,18 @@ of the page with **[devtools](https://en.wikipedia.org/wiki/Web_development_tool
 Note the HTML elements that are of interest to you and copy the paths to each of these elements. 
 Usually these are the XPATH expressions.
 
+Currently, data is collected from the following resources:
+
+a) Web:
+* The C-64 Scene Database (CSDB): [https://csdb.dk](https://csdb.dk/)
+* Demozoo: [https://demozoo.org](https://demozoo.org/)
+* Internet Archive: [https://archive.org](https://archive.org/)
+* Pouët: [https://www.pouet.net](https://www.pouet.net/)
+* ZX Press: [https://zxpress.ru](https://zxpress.ru/)
+
+b) Books
+* Volko, Claus-Dieter (2013). *Enzyklopädie der Diskmags*, ISBN: 3656295387 
+
 ### 1.2 Scrape the data
 
 Now you can start collecting data. If you do not want to collect the data manually, you can use the libraries 
