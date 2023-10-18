@@ -5,6 +5,8 @@ In this repository you will find the datasets containing the collected informati
 The data set `mw_import_magazines.csv` contains the merged data from all these sources. 
 Now we will explain how to obtain and organize the data for this project.
 
+We also invite you to visit our project site: [diskmags.de](https://diskmags.de/index.php?title=Main_Page)
+
 ## 1. Data collection
 
 During data collection, the metadata for each found magazine will be extracted and stored in 
@@ -26,14 +28,15 @@ Usually these are the XPATH expressions.
 
 Currently, data is collected from the following resources:
 
-a) Web:
-* The C-64 Scene Database (CSDB): [https://csdb.dk](https://csdb.dk/)
+**a) Web:**
 * Demozoo: [https://demozoo.org](https://demozoo.org/)
 * Internet Archive: [https://archive.org](https://archive.org/)
+* Kultboy: [https://www.kultboy.com](https://www.kultboy.com/index.php?)
 * Pouët: [https://www.pouet.net](https://www.pouet.net/)
+* The C-64 Scene Database (CSDB): [https://csdb.dk](https://csdb.dk/)
 * ZX Press: [https://zxpress.ru](https://zxpress.ru/)
 
-b) Books
+**b) Books:**
 * Volko, Claus-Dieter (2013). *Enzyklopädie der Diskmags*, ISBN: 3656295387 
 
 ### 1.2 Scrape the data
