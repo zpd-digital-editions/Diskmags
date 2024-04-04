@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: Diskmags
+message: If you use this software, please cite it using these metadata.
+type: dataset
+authors:
+  - given-names: Torsten 
+    family-names: Roeder
+    name-particle: Dr.
+    email: torsten.roeder@uni-wuerzburg.de
+    affiliation: University of Würzburg
+  - given-names: Johannes
+    family-names: Leitgeb
+    email: johannes.leitgeb@stud-mail.uni-wuerzburg.de
+    affiliation: University of Würzburg
+    orcid: 'https://orcid.org/0009-0006-2058-9133'
+  - given-names: Yannik
+    family-names: Herbst
+    email: yannik.herbst@uni-wuerzburg.de
+    affiliation: University of Würzburg
+    orcid: 'https://orcid.org/0000-0002-6547-9599'
+  - given-names: Madlin
+    family-names: Marenec
+    email: madlin@mrsmuseum.de
+    affiliation: University of Würzburg
+    orcid: 'https://orcid.org/0009-0003-7434-827X'
+  - given-names: Tomash
+    family-names: Shtohryn
+    email: tomash.shtohryn@stud-mail.uni-wuerzburg.de
+    affiliation: University of Würzburg
+    orcid: 'https://orcid.org/0009-0000-4597-603X'
+repository-code: 'https://github.com/zpd-digital-editions/Diskmags.git'
+url: 'https://www.diskmags.de'
+abstract: |
+  Diskmags is a dataset of computer magazines from the 1980s and 1990s. It is a project of the Center for Philology and Digitality at the University of Würzburg. The project is funded by the German Research Foundation (DFG) and the Free State of Bavaria. Diskmags is a collaborative project of the Chair of Digital Humanities and the Chair of Medieval German Literature at the University of Würzburg. The project is part of the research focus "Digital Philology" at the University of Würzburg.
+keywords:
+  - dataset
+  - computer magazines
+  - diskmags
+  - retrocomputing
+version: 1.0
+date-released: '2022-01-01'
