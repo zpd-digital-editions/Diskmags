@@ -81,3 +81,9 @@ dataset for each of these diskmags. Make sure that the issues of the same magazi
 Once you have finished the data merging, you need to sort the dataset alphabetically by title (row `Title`). 
 To avoid the misunderstandings with upper and lower case, do the case-insensitive sort.
 Upload the updated file to this repository. In the description of the commit, you have to explain what you have done.
+
+## Mediawiki
+The Structure for the mediawiki: 
+![image](https://github.com/zpd-digital-editions/Diskmags/assets/24278823/8a4fc78c-75b0-4988-8786-1b7929a1f9c4)
+
+The correlated data will be published here soon.
