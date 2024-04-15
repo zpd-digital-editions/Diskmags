@@ -84,6 +84,7 @@ Upload the updated file to this repository. In the description of the commit, yo
 
 ## Mediawiki
 The Structure for the mediawiki: 
-![image](https://github.com/zpd-digital-editions/Diskmags/assets/24278823/8a4fc78c-75b0-4988-8786-1b7929a1f9c4)
+![image](https://github.com/zpd-digital-editions/Diskmags/assets/24278823/029055dc-950b-4848-90b2-ecad614eb2a7)
+
 
 The correlated data will be published here soon.
