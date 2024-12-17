@@ -1,4 +1,4 @@
-# The Diskmag Project
+# The Diskmag Catalog
 
 This project is focused on collecting all possible data about the disk magazines (diskmags).
 In this repository you will find the datasets containing the collected information on diskmags from various internet sources. 
@@ -18,7 +18,7 @@ collecting and storing your data.
 
 ### 1.1 Source
 
-If you have found the page where the topic "Diskmags" is dealt with, you must first 
+If you have found the page where the topic "diskmags" is dealt with, you must first 
 determine whether you can extract the metadata there.
 Once you have found that the necessary information is there, think about how you 
 can collect this data. If you want to automate this process, you can look at the structure 
